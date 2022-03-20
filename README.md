@@ -1,4 +1,5 @@
-# Archivo .gitignore
+# Ejercicio 2)
+## Archivo gitignore
 ### El archivo .gitignore es un archivo de texto que le dice a Git cuales archivos o carpetas ignorar en un determinado proyecto.
 - Es conveniente incluir el archivo .gitignore en todo repositorio para así tener la posibilidad de ignorar todo aquel archivo o carpeta que no sea necesario incluir.
 - Un archivo .gitignore puede ser local (que pueda ignorar a elementos de un solo repositorio) o global (capaz de ignorar elementos de todos los repositorios). Para crear un archivo .gitignore local, se debe crear un archivo de texto llamado .gitignore (incluyendo el .), y a partir de ahí se modifica el archivo como sea necesario; cada linea debe listar un archivo o carpeta adicional que se quiera ignorar por Git.
@@ -32,3 +33,5 @@ Mientras que el archivo local debe crearse en la carpeta raiz del repositorio a 
 	````
 
 _[Biliografía](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)_
+
+## tp1_1.cpp
