@@ -14,4 +14,7 @@
 *.vb
 *.wsf
 
+### Carpeta creada por el compilador ###
+.vscode/
+
 # End of https://www.toptal.com/developers/gitignore/api/executable
