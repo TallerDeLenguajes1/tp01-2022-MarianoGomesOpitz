@@ -35,3 +35,4 @@ Mientras que el archivo local debe crearse en la carpeta raiz del repositorio a 
 _[Biliografía](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)_
 
 ## tp1_1.cpp
+Al subir los archivos a Git Hub, puedo ver que están presentes README.md, tp1_1.cpp, tp1_1.exe y la carpeta .vscode/ (a éstos dos últimos no los subí porque ya era consiente de que no son relevantes para el funcionamiento del código .cpp); por lo que decidí usar el archivo .gitignore que lo cree usando la página proporcionada por el TP, el cual ignora todos los ejecutables, y manualmente decidí agregar que ignorase a la carpeta .vscode/.
